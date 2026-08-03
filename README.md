@@ -355,6 +355,23 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 <!-- ===================================================== -->
 <!--                GITHUB ANALYTICS                       -->
 <!-- ===================================================== -->
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhan07-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=farhan07-ui&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan07-ui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
 
 
 <div align="center">
