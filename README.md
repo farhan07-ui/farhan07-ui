@@ -233,3 +233,239 @@ Currently, I'm developing projects focused on:
 </div>
 
 ---
+<!-- ===================================================== -->
+<!--                EXPERIENCE SECTION                     -->
+<!-- ===================================================== -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Briefcase/Briefcase.png" width="28"> Experience
+
+<div align="center">
+
+*"Transforming ideas into intelligent software through AI, Computer Vision, and Full Stack Engineering."*
+
+</div>
+
+---
+
+##  Full Stack and AI Developer
+### Academic & Personal Projects
+
+ **2025 — Present**
+
+Building intelligent applications that combine **Artificial Intelligence**, **Computer Vision**, and **Full Stack Development** to solve real-world problems while continuously expanding expertise in modern AI technologies.
+
+---
+
+### Core Responsibilities
+
+- Designed and developed real-time AI-powered applications using **Python**, **TensorFlow**, **MediaPipe**, and **OpenCV**.
+- Built intelligent Computer Vision pipelines for hand landmark detection and gesture recognition.
+- Optimized AI inference workflows for improved responsiveness and prediction accuracy.
+- Developed modular backend services using **FastAPI** following RESTful design principles.
+- Collaborated using **Git** and **GitHub** within a team-based development workflow.
+- Focused on writing maintainable, scalable, and production-oriented code.
+- Applied software engineering best practices, including modular architecture and reusable components.
+- Explored modern AI concepts such as **LLMs**, **Retrieval-Augmented Generation (RAG)**, **LangGraph**, and **AI Agents** for future project integration.
+
+---
+
+##  Highlighted Projects
+
+###  AI-Powered Hand Sign to Text Recognition
+
+**Role:** AI & Computer Vision Developer
+
+Developed a real-time sign language recognition system capable of detecting hand gestures and converting them into text using deep learning and Computer Vision.
+
+#### Contributions
+
+- Implemented MediaPipe hand landmark detection.
+- Integrated TensorFlow models for gesture classification.
+- Optimized prediction and preprocessing pipelines.
+- Enhanced UI with live AI metrics and performance monitoring.
+- Collaborated in a Git-based development environment.
+
+**Technology**
+
+`Python` `TensorFlow` `MediaPipe` `OpenCV` `NumPy` `Git`
+
+---
+
+### AI-Powered Campus Operating System
+
+**Role:** Full Stack AI Developer
+
+Developing a next-generation campus operating system that integrates modern Full Stack technologies with intelligent AI agents.
+
+#### Contributions
+
+- Built scalable backend services using FastAPI.
+- Developing a React-based frontend architecture.
+- Designing a modular multi-agent AI system.
+- Planning integration of **LLMs**, **RAG**, and **LangGraph** for context-aware AI interactions.
+- Applying prompt engineering concepts to build intelligent workflows.
+- Architecting extensible APIs for future AI capabilities.
+
+**Technology**
+
+`Python`
+`FastAPI`
+`React`
+`REST APIs`
+`Git`
+`GitHub`
+`LLMs`
+`RAG`
+`LangGraph`
+
+---
+
+## Technical Strengths
+
+<div align="center">
+
+| AI Engineering | Software Engineering | Full Stack | Computer Vision |
+|:--------------:|:-------------------:|:----------:|:---------------:|
+| TensorFlow | OOP | FastAPI | MediaPipe |
+| Machine Learning | DSA | REST APIs | OpenCV |
+| AI Agents | Problem Solving | React | Image Processing |
+| LLM Fundamentals | Git | API Design | Real-Time Inference |
+
+</div>
+
+---
+
+##  Professional Growth
+
+Currently expanding expertise in:
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangGraph
+- Multi-Agent AI Systems
+- AI Product Engineering
+- System Design
+- Scalable Backend Architecture
+
+---
+
+##  Career Objective
+
+Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**, or **Full Stack Developer**, where I can build impactful products, collaborate with experienced teams, and continue growing in Artificial Intelligence and modern software engineering.
+
+---
+<!-- ===================================================== -->
+<!--                GITHUB ANALYTICS                       -->
+<!-- ===================================================== -->
+
+#  GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhan07-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan07-ui&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan07-ui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--              GITHUB METRICS DASHBOARD                 -->
+<!-- ===================================================== -->
+
+#  GitHub Metrics
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan07-ui&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhan07-ui&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan07-ui&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan07-ui&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhan07-ui&theme=tokyonight"/>
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--            CONTRIBUTION ACTIVITY GRAPH                -->
+<!-- ===================================================== -->
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=farhan07-ui&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--                  CONNECT WITH ME                      -->
+<!-- ===================================================== -->
+
+#  Connect With Me
+
+<div align="center">
+
+<a href="mailto:akhtarf667@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-akhtarf667@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/Farhan%20Akhtar">
+<img src="https://img.shields.io/badge/LinkedIn-Farhan%20Akhtar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/farhan07-ui">
+<img src="https://img.shields.io/badge/GitHub-farhan07--ui-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--                     FOOTER                            -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+##  Building Intelligent Systems That Create Real-World Impact
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Computer+Vision;Full+Stack+Development;Always+Learning+•+Always+Building"/>
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
+
+</div>
