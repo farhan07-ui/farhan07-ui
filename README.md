@@ -260,36 +260,6 @@ Currently, I'm developing projects focused on:
 
 ---
 
-## AI Development Workflow
-
-<div align="center">
-
-```text
-Data Collection
-      │
-      ▼
-Data Preprocessing
-      │
-      ▼
-Feature Engineering
-      │
-      ▼
-Model Training
-      │
-      ▼
-Model Evaluation
-      │
-      ▼
-Real-Time Inference
-      │
-      ▼
-Deployment & Optimization
-```
-
-</div>
-
----
-
 ## AI Interests
 
 <div align="center">
@@ -307,296 +277,13 @@ Deployment & Optimization
 
 ---
 
-## Current AI Learning Roadmap
-
-<div align="center">
-
-```text
-██████████████░░░░  Artificial Intelligence
-
-█████████████░░░░░  Computer Vision
-
-███████████░░░░░░░  Machine Learning
-
-█████████░░░░░░░░░  Deep Learning
-
-████████░░░░░░░░░░  FastAPI
-
-███████░░░░░░░░░░░  LLM Integration
-
-██████░░░░░░░░░░░░  Retrieval-Augmented Generation
-
-█████░░░░░░░░░░░░░  LangGraph
-
-████░░░░░░░░░░░░░░  Multi-Agent Systems
 ```
 
 </div>
 
 ---
 
-## AI Philosophy
 
-> *"I believe the most impactful AI systems are not just intelligent—they are practical, reliable, and built to solve real-world problems. My goal is to bridge AI research with software engineering to create scalable, user-focused solutions."*
-
----
-<!-- ===================================================== -->
-<!--               FEATURED PROJECTS                       -->
-<!-- ===================================================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"> Featured Projects
-
-<div align="center">
-
-*"Building intelligent software that combines AI, Computer Vision, and modern Full Stack Development."*
-
-</div>
-
----
-
-<details open>
-
-<summary>
-
-# 🧠 AI-Powered Hand Sign to Text Recognition System
-
-### Real-Time Computer Vision • TensorFlow • MediaPipe • OpenCV
-
-</summary>
-
-<br>
-
-## Overview
-
-An intelligent **Computer Vision** application that recognizes hand gestures in real time and converts them into readable text using deep learning and MediaPipe hand landmark detection.
-
-The project focuses on creating an accessible and responsive communication system through AI-powered gesture recognition while maintaining high real-time performance.
-
----
-
-## Project Snapshot
-
-| Category | Details |
-|:----------|:--------|
-| **Status** | 🚧 Active Development |
-| **Type** | AI / Computer Vision |
-| **Language** | Python |
-| **Framework** | TensorFlow |
-| **Detection Engine** | MediaPipe |
-| **Vision Library** | OpenCV |
-| **Performance** | Real-Time Webcam Inference |
-| **Repository** | *Private / Coming Soon* |
-
----
-
-## Key Features
-
-- ✅ Real-time webcam gesture recognition
-- ✅ Hand landmark detection using MediaPipe
-- ✅ TensorFlow gesture classification
-- ✅ Live text prediction
-- ✅ Dynamic UI with performance metrics
-- ✅ Optimized prediction pipeline
-- ✅ Modular AI architecture
-- ✅ Team collaboration using Git & GitHub
-
----
-
-## Technology Stack
-
-```text
-Python
-TensorFlow
-MediaPipe
-OpenCV
-NumPy
-Pandas
-Matplotlib
-Git
-GitHub
-```
-
----
-
-## System Workflow
-
-```text
-Webcam
-   │
-   ▼
-MediaPipe Hand Tracking
-   │
-   ▼
-Landmark Extraction
-   │
-   ▼
-TensorFlow Model
-   │
-   ▼
-Gesture Prediction
-   │
-   ▼
-Live Text Output
-```
-
----
-
-## Current Focus
-
-- Improving prediction accuracy
-- Optimizing inference speed
-- Enhancing UI/UX
-- Expanding gesture vocabulary
-- Increasing robustness across lighting conditions
-
----
-
-## Impact
-
-Designed to improve accessibility by enabling natural communication through real-time AI-powered gesture recognition.
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# 🤖 AI-Powered Campus Operating System
-
-### Multi-Agent Architecture • FastAPI • React • AI Agents
-
-</summary>
-
-<br>
-
-## Overview
-
-A next-generation **AI-powered Campus Operating System** designed to streamline academic workflows using intelligent agents, scalable backend services, and modern web technologies.
-
-The platform is being built with a modular architecture that will support **LLMs**, **Retrieval-Augmented Generation (RAG)**, and **LangGraph** to provide context-aware assistance across campus operations.
-
----
-
-## Project Snapshot
-
-| Category | Details |
-|:----------|:--------|
-| **Status** | 🚀 In Development |
-| **Type** | Full Stack + AI |
-| **Frontend** | React |
-| **Backend** | FastAPI |
-| **Language** | Python |
-| **Architecture** | Multi-Agent System |
-| **Future AI Stack** | LLMs • RAG • LangGraph |
-| **Repository** | *Private / Coming Soon* |
-
----
-
-## Core Features
-
-- ✅ AI-powered campus assistant
-- ✅ Multi-agent architecture
-- ✅ FastAPI backend
-- ✅ React frontend
-- ✅ Modular API design
-- ✅ Scalable backend architecture
-- ✅ Authentication-ready structure
-- 🔄 Planned LLM integration
-- 🔄 Planned Retrieval-Augmented Generation
-- 🔄 Planned LangGraph workflows
-
----
-
-## Technology Stack
-
-```text
-React
-FastAPI
-Python
-REST APIs
-Git
-GitHub
-
-Future Integration
-
-LLMs
-LangGraph
-RAG
-Prompt Engineering
-Vector Database
-```
-
----
-
-## Planned Architecture
-
-```text
-React Frontend
-        │
-        ▼
-FastAPI Backend
-        │
-        ▼
-Authentication Layer
-        │
-        ▼
-Multi-Agent System
-        │
- ┌──────┼─────────┐
- ▼      ▼         ▼
-Academic Agent
-Student Agent
-Admin Agent
-        │
-        ▼
-LLM + RAG Layer
-        │
-        ▼
-Knowledge Base
-```
-
----
-
-## Future Roadmap
-
-- AI Agent Collaboration
-- LangGraph Workflows
-- Retrieval-Augmented Generation
-- Context-aware LLM Responses
-- Smart Campus Automation
-- Voice-enabled AI Assistant
-- Role-based Intelligent Services
-
----
-
-## Vision
-
-To build an intelligent operating system that transforms campus management into an AI-first experience through autonomous agents and modern software engineering.
-
-</details>
-
----
-
-## 🚀 Upcoming Projects
-
-| Project | Domain | Status |
-|:---------|:------|:------:|
-| AI Resume Analyzer | NLP | 📋 Planned |
-| Intelligent AI Assistant | LLMs | 📋 Planned |
-| Computer Vision Toolkit | AI | 📋 Planned |
-| AI Productivity Suite | Full Stack + AI | 📋 Planned |
-
----
-
-<div align="center">
-
-### 💡 *"Every project is an opportunity to transform ideas into intelligent, scalable solutions."*
-
-</div>
-
----
 <!-- ===================================================== -->
 <!--                EXPERIENCE SECTION                     -->
 <!-- ===================================================== -->
@@ -611,7 +298,7 @@ To build an intelligent operating system that transforms campus management into 
 
 ---
 
-## 🧑‍💻 AI Developer
+##  Full Stack Developer 
 ### Academic & Personal Projects
 
 📅 **2025 — Present**
@@ -633,9 +320,9 @@ Building intelligent applications that combine **Artificial Intelligence**, **Co
 
 ---
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 
-### 🧠 AI-Powered Hand Sign to Text Recognition
+### AI-Powered Hand Sign to Text Recognition
 
 **Role:** AI & Computer Vision Developer
 
@@ -655,7 +342,7 @@ Developed a real-time sign language recognition system capable of detecting hand
 
 ---
 
-### 🤖 AI-Powered Campus Operating System
+###  AI-Powered Campus Operating System
 
 **Role:** Full Stack AI Developer
 
@@ -713,7 +400,7 @@ Currently expanding expertise in:
 
 ---
 
-## 💼 Career Objective
+##  Career Objective
 
 Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**, or **Full Stack Developer**, where I can build impactful products, collaborate with experienced teams, and continue growing in Artificial Intelligence and modern software engineering.
 
@@ -742,39 +429,6 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 
 ---
 <!-- ===================================================== -->
-<!--              GITHUB METRICS DASHBOARD                 -->
-<!-- ===================================================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"> GitHub Metrics
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan07-ui&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhan07-ui&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan07-ui&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan07-ui&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhan07-ui&theme=tokyonight"/>
-
-</div>
-
----
-<!-- ===================================================== -->
 <!--            CONTRIBUTION ACTIVITY GRAPH                -->
 <!-- ===================================================== -->
 
@@ -799,18 +453,8 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 
 </div>
 
----
-<!-- ===================================================== -->
-<!--                CONTRIBUTION SNAKE                     -->
-<!-- ===================================================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"> Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/farhan07-ui/farhan07-ui/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 <!-- ===================================================== -->
@@ -848,7 +492,7 @@ Open To:
   - Software Engineering Roles
   - Computer Vision Projects
   - Open Source Contributions
-  - Research Collaborations
+  - Full Stack Development
 ```
 
 ---
@@ -872,9 +516,6 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-farhan07--ui-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 
 </div>
 
@@ -884,21 +525,3 @@ Open To:
 
 <div align="center">
 
-## 💜 Building Intelligent Systems That Create Real-World Impact
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Computer+Vision;Full+Stack+Development;Always+Learning+•+Always+Building"/>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
-
-</div>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/farhan07-ui/farhan07-ui/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
