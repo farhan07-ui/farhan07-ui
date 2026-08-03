@@ -237,7 +237,7 @@ Currently, I'm developing projects focused on:
 <!--                EXPERIENCE SECTION                     -->
 <!-- ===================================================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Briefcase/Briefcase.png" width="28"> Experience
+# Experience
 
 <div align="center">
 
@@ -372,7 +372,6 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan07-ui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -381,33 +380,7 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 <!--              GITHUB METRICS DASHBOARD                 -->
 <!-- ===================================================== -->
 
-#  GitHub Metrics
 
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan07-ui&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhan07-ui&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan07-ui&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan07-ui&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhan07-ui&theme=tokyonight"/>
-
-</div>
 
 ---
 <!-- ===================================================== -->
@@ -458,11 +431,11 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 
 ##  Building Intelligent Systems That Create Real-World Impact
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Computer+Vision;Full+Stack+Development;Always+Learning+•+Always+Building"/>
+
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 
 <br><br>
 
