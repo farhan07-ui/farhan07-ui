@@ -70,3 +70,166 @@ Currently, I'm developing projects focused on:
 - Internship Opportunities
 
 ---
+
+<!-- ===================================================== -->
+<!--                 TECH STACK SECTION                    -->
+<!-- ===================================================== -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"> Tech Stack
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql&theme=dark"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI / Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST%20API-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-7C3AED?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## Core Competencies
+
+<div align="center">
+
+| Artificial Intelligence | Computer Vision | Backend Development | Full Stack Development |
+|:-----------------------:|:---------------:|:-------------------:|:----------------------:|
+| TensorFlow | MediaPipe | FastAPI | React |
+| Python | OpenCV | REST APIs | HTML/CSS |
+| Machine Learning | Image Processing | API Design | JavaScript |
+| AI Agents | Real-Time Inference | Database Integration | Git & GitHub |
+
+</div>
+
+---
+
+## Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Large%20Language%20Models-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+---
