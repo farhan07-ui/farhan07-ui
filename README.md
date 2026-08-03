@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Location-India-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-Kolkata,India-7C3AED?style=flat-square"/>
 
 <img src="https://komarev.com/ghpvc/?username=farhan07-ui&style=flat-square&color=7C3AED"/>
 
@@ -230,52 +230,6 @@ Currently, I'm developing projects focused on:
 <img src="https://img.shields.io/badge/System%20Design-8B5CF6?style=for-the-badge"/>
 
 </div>
-
----
-<!-- ===================================================== -->
-<!--              AI / ML EXPERTISE SECTION                -->
-<!-- ===================================================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="28"> AI / ML Expertise
-
-<div align="center">
-
-> *Building practical AI solutions through Computer Vision, intelligent systems, and continuous learning.*
-
-</div>
-
-<br>
-
-| Domain | Proficiency | Focus Area | Technologies |
-|:------|:-----------:|:-----------|:------------|
-| 🤖 Artificial Intelligence | ★★★★☆ | Intelligent application development | Python, TensorFlow |
-| 👁️ Computer Vision | ★★★★☆ | Real-time vision systems & gesture recognition | OpenCV, MediaPipe |
-| 🧠 Machine Learning | ★★★☆☆ | Model training, evaluation & prediction | Scikit-learn, TensorFlow |
-| 🔬 Deep Learning | ★★★☆☆ | Neural network fundamentals & inference | TensorFlow, Keras |
-| 🚀 AI Agents | ★★★☆☆ | Agent orchestration & workflow design | LangGraph *(Learning)* |
-| 📚 Large Language Models | ★★★☆☆ | Prompt Engineering & LLM Integration | OpenAI APIs *(Learning)* |
-| 🔎 Retrieval-Augmented Generation | ★★☆☆☆ | Knowledge retrieval pipelines | RAG *(Learning)* |
-| ⚡ Backend APIs | ★★★★☆ | AI service development | FastAPI, REST APIs |
-| 📊 Data Processing | ★★★★☆ | Data preparation & visualization | NumPy, Pandas, Matplotlib |
-
----
-
-## AI Interests
-
-<div align="center">
-
-| Current Interests | Exploring Next |
-|:------------------|:---------------|
-| Artificial Intelligence | Multi-Agent Systems |
-| Computer Vision | Large Language Models |
-| Real-Time Inference | Retrieval-Augmented Generation |
-| Human-AI Interaction | LangGraph Workflows |
-| Full-Stack AI Applications | AI Product Engineering |
-| Intelligent Automation | Agentic AI Systems |
-
-</div>
-
----
 
 ```
 
