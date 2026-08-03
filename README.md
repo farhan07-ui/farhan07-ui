@@ -230,11 +230,6 @@ Currently, I'm developing projects focused on:
 <img src="https://img.shields.io/badge/System%20Design-8B5CF6?style=for-the-badge"/>
 
 </div>
-
-```
-
-</div>
-
 ---
 
 
@@ -417,7 +412,7 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="28"> Current Focus
 
-```yaml
+
 Learning:
   - Artificial Intelligence
   - Computer Vision
@@ -447,12 +442,14 @@ Open To:
   - Computer Vision Projects
   - Open Source Contributions
   - Full Stack Development
-```
+
+
 
 ---
 <!-- ===================================================== -->
 <!--                  CONNECT WITH ME                      -->
 <!-- ===================================================== -->
+
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" width="28"> Connect With Me
 
