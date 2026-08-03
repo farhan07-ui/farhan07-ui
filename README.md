@@ -38,7 +38,7 @@
 
 ---
 
- About Me
+# About Me
 
 <img align="right" width="340" src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20Engineer&align=center&titleAlign=center&fontSize=18&lineCount=3&theme=tokyonight&line1=Python%2CPython%2C3776AB%3BTensorFlow%2CTensorFlow%2CFF6F00%3B&line2=FastAPI%2CFastAPI%2C009688%3BOpenCV%2COpenCV%2C5C3EE8%3B&line3=MediaPipe%2CMediaPipe%2C4285F4%3BGit%2CGit%2CF05032%3B"/>
 
@@ -75,7 +75,7 @@ Currently, I'm developing projects focused on:
 <!--                 TECH STACK SECTION                    -->
 <!-- ===================================================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"> Tech Stack
+# Tech Stack
 
 <div align="center">
 
