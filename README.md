@@ -897,3 +897,8 @@ Open To:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
 
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/farhan07-ui/farhan07-ui/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
