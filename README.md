@@ -38,7 +38,6 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Purple%20Heart.png" width="28"> About Me
 
 <img align="right" width="340" src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20Engineer&align=center&titleAlign=center&fontSize=18&lineCount=3&theme=tokyonight&line1=Python%2CPython%2C3776AB%3BTensorFlow%2CTensorFlow%2CFF6F00%3B&line2=FastAPI%2CFastAPI%2C009688%3BOpenCV%2COpenCV%2C5C3EE8%3B&line3=MediaPipe%2CMediaPipe%2C4285F4%3BGit%2CGit%2CF05032%3B"/>
 
@@ -73,8 +72,6 @@ Currently, I'm developing projects focused on:
 <!-- ===================================================== -->
 <!--                 TECH STACK SECTION                    -->
 <!-- ===================================================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"> Tech Stack
 
 <div align="center">
 
@@ -237,7 +234,6 @@ Currently, I'm developing projects focused on:
 <!--                EXPERIENCE SECTION                     -->
 <!-- ===================================================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Briefcase/Briefcase.png" width="28"> Experience
 
 <div align="center">
 
@@ -250,7 +246,7 @@ Currently, I'm developing projects focused on:
 ##  Full Stack Developer 
 ### Academic & Personal Projects
 
-📅 **2025 — Present**
+ **2025 — Present**
 
 Building intelligent applications that combine **Artificial Intelligence**, **Computer Vision**, and **Full Stack Development** to solve real-world problems while continuously expanding expertise in modern AI technologies.
 
@@ -320,7 +316,7 @@ Developing a next-generation campus operating system that integrates modern Full
 
 ---
 
-## 📈 Technical Strengths
+##  Technical Strengths
 
 <div align="center">
 
@@ -335,7 +331,7 @@ Developing a next-generation campus operating system that integrates modern Full
 
 ---
 
-## 🌱 Professional Growth
+##  Professional Growth
 
 Currently expanding expertise in:
 
@@ -358,7 +354,6 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 <!--                GITHUB ANALYTICS                       -->
 <!-- ===================================================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"> GitHub Analytics
 
 <div align="center">
 
@@ -372,37 +367,12 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan07-ui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
 </div>
 
 ---
 <!-- ===================================================== -->
 <!--            CONTRIBUTION ACTIVITY GRAPH                -->
 <!-- ===================================================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" width="28"> Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=farhan07-ui&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-<!-- ===================================================== -->
-<!--            CONTRIBUTION ACTIVITY GRAPH                -->
-<!-- ===================================================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" width="28"> Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=farhan07-ui&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-
 
 
 ---
@@ -410,7 +380,6 @@ Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**
 <!--                 CURRENT FOCUS                         -->
 <!-- ===================================================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="28"> Current Focus
 
 
 Learning:
@@ -451,7 +420,6 @@ Open To:
 <!-- ===================================================== -->
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" width="28"> Connect With Me
 
 <div align="center">
 
