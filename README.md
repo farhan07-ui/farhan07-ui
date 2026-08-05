@@ -353,29 +353,6 @@ Currently expanding expertise in:
 
 Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**, or **Full Stack Developer**, where I can build impactful products, collaborate with experienced teams, and continue growing in Artificial Intelligence and modern software engineering.
 
----
-<!-- ===================================================== -->
-<!--                GITHUB ANALYTICS                       -->
-<!-- ===================================================== -->
-
-#  GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhan07-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan07-ui&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-
-</div>
-
----
 <!-- ===================================================== -->
 <!--              GITHUB METRICS DASHBOARD                 -->
 <!-- ===================================================== -->
