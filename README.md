@@ -353,10 +353,6 @@ Currently expanding expertise in:
 
 Seeking opportunities to contribute as an **AI Engineer**, **Software Engineer**, or **Full Stack Developer**, where I can build impactful products, collaborate with experienced teams, and continue growing in Artificial Intelligence and modern software engineering.
 
-<!-- ===================================================== -->
-<!--              GITHUB METRICS DASHBOARD                 -->
-<!-- ===================================================== -->
-
 
 
 ---
